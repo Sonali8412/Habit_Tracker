@@ -262,14 +262,10 @@ POST /api/ai
 
 Example:
 
-```
-screenshots
-<img width="1920" height="1080" alt="Screenshot (549)" src="https://github.com/user-attachments/assets/9d3e89e2-b4b6-4890-9772-bc34b59614fa" />
-
-<img width="1920" height="1080" alt="Screenshot (548)" src="https://github.com/user-attachments/assets/a99674da-4cbc-4513-a7b3-5ab7dfd44d50" />
-<img width="1920" height="1080" alt="Screenshot (550)" src="https://github.com/user-attachments/assets/609f3387-6bb5-452c-9df9-8ed2c48761bf" />
-<img width="1920" height="1080" alt="Screenshot (552)" src="https://github.com/user-attachments/assets/5902c382-0dab-4545-8701-edcf05d47452" />
-
+```<img width="1920" height="1080" alt="Screenshot (550)" src="https://github.com/user-attachments/assets/76ac7436-c3c3-42b5-94c6-2a35c68f39eb" />
+<img width="1920" height="1080" alt="Screenshot (552)" src="https://github.com/user-attachments/assets/11a071a4-32e3-476c-9220-bf67aa29fbe9" />
+<img width="1920" height="1080" alt="Screenshot (548)" src="https://github.com/user-attachments/assets/a994ce2b-159e-4969-b21d-a36cfe957098" />
+<img width="1920" height="1080" alt="Screenshot (549)" src="https://github.com/user-attachments/assets/6efaac34-b093-425e-8eb6-62727292e3f1" />
 
 
 
