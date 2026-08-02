@@ -256,21 +256,6 @@ POST /api/ai
 
 ---
 
-# 📸 Screenshots
-
-
-
-Example:
-
-```<img width="1920" height="1080" alt="Screenshot (550)" src="https://github.com/user-attachments/assets/76ac7436-c3c3-42b5-94c6-2a35c68f39eb" />
-<img width="1920" height="1080" alt="Screenshot (552)" src="https://github.com/user-attachments/assets/11a071a4-32e3-476c-9220-bf67aa29fbe9" />
-<img width="1920" height="1080" alt="Screenshot (548)" src="https://github.com/user-attachments/assets/a994ce2b-159e-4969-b21d-a36cfe957098" />
-<img width="1920" height="1080" alt="Screenshot (549)" src="https://github.com/user-attachments/assets/6efaac34-b093-425e-8eb6-62727292e3f1" />
-
-
-
-```
-
 ---
 
 # 🤝 Contributing
