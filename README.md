@@ -306,7 +306,6 @@ https://ai-habit-tracker-nlp8.onrender.com
 
 <div align="center">
 
-### Made with ❤️ using React, Node.js, MongoDB & Gemini AI
 
 ⭐ Thanks for visiting this repository! ⭐
 
